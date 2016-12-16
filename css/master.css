@@ -1,0 +1,13 @@
+#hund{
+  width: 150px;
+  float: right;
+}
+body {
+  padding: 0 5% 0 5%;
+  background-color: #7e7;
+  font-family: helvetica, sans-serif;
+}
+div.text p {
+  display: block;
+  width: 70%;
+}
